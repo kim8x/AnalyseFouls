@@ -1,4 +1,5 @@
 #Multi-View Football Foul Detection Framework
+
 This repository provides an advanced system designed to identify fouls in soccer matches using synchronized multi-camera footage. Leveraging deep learning and multi-view video analysis, it offers an efficient pipeline for foul detection and localization on the pitch.
 
 Overview
